@@ -1,0 +1,74 @@
+
+h1 {
+    color: black;
+    font-style: italic;
+    background-color: brown; opacity: 0.9;
+    margin: 25px 50px;
+    margin-left: 10px;
+    margin-right: 0em;
+
+}
+h4{
+    margin-left: 40px;
+}
+
+h3{
+    text-align: inherit;
+}
+body{
+    background-color: transparent;
+}
+.pageheader {
+    text-align: top;
+}
+
+.home {
+
+    background-image: url("img/pizza1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.menu {
+
+    background-image: url("img/pizza5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.gallery {
+
+    background-image: url("img/pizza1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.form {
+    background-image: url("img/pizza1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+
+}
+.container, .home {
+    text-align: center;
+}
+.gallery, .carousel-inner {
+    border-style: solid;
+    object-fit: cover;
+
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+
+ul{
+    list-style-type: none;
+    background-color: transparent;
+}
